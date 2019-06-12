@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1560348480507">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1560349308260">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="496673846" ref="index"/>
+    <file name="index.css" crc="438952760" ref="index"/>
     <file name="nomq_index.css" crc="4022857590" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -57,5 +57,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4185072596" seo="true" mt="1560348464170" redirect="true"/>
+  <file name="index.html" crc="3821089771" seo="true" mt="1560349247111" redirect="true"/>
 </manifest>
