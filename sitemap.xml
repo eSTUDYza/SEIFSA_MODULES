@@ -23,5 +23,23 @@
     <image:image>
       <image:loc>http://SEIFSA.COM/images/f-crop-u790.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SEIFSA.COM/images/a-crop-u6902.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SEIFSA.COM/images/b-crop-u7102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SEIFSA.COM/images/c-crop-u7302.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SEIFSA.COM/images/d-crop-u7502.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SEIFSA.COM/images/e-crop-u7702.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SEIFSA.COM/images/f-crop-u7902.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
