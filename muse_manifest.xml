@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1560349308260">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1560409624319">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="438952760" ref="index"/>
-    <file name="nomq_index.css" crc="4022857590" ref="index"/>
+    <file name="index.css" crc="151088483" ref="index"/>
+    <file name="nomq_index.css" crc="19904405" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,10 +18,11 @@
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="a-crop-u690.jpg" crc="4872680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="b-crop-u710.jpg" crc="3804591906" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -37,7 +38,6 @@
     <file name="f-crop-u790.jpg" crc="4242767187" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="a-crop-u6902.jpg" crc="341620602" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -57,5 +57,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3821089771" seo="true" mt="1560349247111" redirect="true"/>
+  <file name="index.html" crc="41093636" seo="true" mt="1560409590361" redirect="true"/>
 </manifest>
