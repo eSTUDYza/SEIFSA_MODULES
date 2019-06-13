@@ -1,8 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1560410206484">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1560410492050">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3936944991" ref="index"/>
-    <file name="nomq_index.css" crc="473580644" ref="index"/>
+    <file name="index.css" crc="3942717190" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,51 +14,31 @@
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="a-crop-u690.jpg" crc="4872680" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="b-crop-u710.jpg" crc="3804591906" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="c-crop-u730.jpg" crc="24679265" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="d-crop-u750.jpg" crc="3785690336" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="e-crop-u770.jpg" crc="337654728" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="f-crop-u790.jpg" crc="4242767187" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="a-crop-u6902.jpg" crc="341620602" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="b-crop-u7102.jpg" crc="4070637926" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="c-crop-u7302.jpg" crc="4185744435" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="d-crop-u7502.jpg" crc="3872454443" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="e-crop-u7702.jpg" crc="393116494" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="f-crop-u7902.jpg" crc="453351812" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="trans.png" crc="38404405" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="a.jpg" crc="58203161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b.jpg" crc="276201886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c.jpg" crc="375159424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d.jpg" crc="318170748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e.jpg" crc="256853255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f.jpg" crc="250621559" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="492965297" seo="true" mt="1560410186405" redirect="true"/>
+  <file name="index.html" crc="226332615" seo="true" mt="1560410468838" redirect="true"/>
 </manifest>
