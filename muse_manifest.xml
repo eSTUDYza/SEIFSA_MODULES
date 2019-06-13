@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1560409624319">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1560410206484">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="151088483" ref="index"/>
-    <file name="nomq_index.css" crc="19904405" ref="index"/>
+    <file name="index.css" crc="3936944991" ref="index"/>
+    <file name="nomq_index.css" crc="473580644" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -56,6 +56,10 @@
     <file name="f-crop-u7902.jpg" crc="453351812" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="trans.png" crc="38404405" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="41093636" seo="true" mt="1560409590361" redirect="true"/>
+  <file name="index.html" crc="492965297" seo="true" mt="1560410186405" redirect="true"/>
 </manifest>
