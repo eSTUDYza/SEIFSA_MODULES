@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1560413290302">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1562331885323">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="293189371" ref="index"/>
+    <file name="index.css" crc="321992237" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -17,30 +17,21 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u536-4.png" crc="338338501" ref="index"/>
+    <file name="u520-4.png" crc="374357298" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="trans.png" crc="38404405" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a.jpg" crc="58203161" seo="true" ref="index">
+    <file name="artboard 16 copy 9.jpg" crc="3877844534" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b.jpg" crc="276201886" seo="true" ref="index">
+    <file name="artboard 16 copy 10.jpg" crc="3891181345" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c.jpg" crc="375159424" seo="true" ref="index">
+    <file name="artboard 16 copy 13.jpg" crc="4092042751" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="d.jpg" crc="318170748" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="e.jpg" crc="256853255" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="f.jpg" crc="250621559" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u536-4.png" crc="238460441" ref="index"/>
-    <file name="u520-4.png" crc="110234558" ref="index"/>
   </folder>
-  <file name="index.html" crc="4146160118" seo="true" mt="1560413164072" redirect="true"/>
+  <file name="index.html" crc="161409207" seo="true" mt="1562331849032" redirect="true"/>
 </manifest>
