@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1562573924873">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1563785010904">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3857188246" ref="index"/>
+    <file name="index.css" crc="433228425" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,24 +14,18 @@
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u536-4.png" crc="338338501" ref="index"/>
-    <file name="u520-4.png" crc="374357298" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="trans.png" crc="38404405" ref="index">
+    <file name="b.jpg" crc="353140057" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="artboard 16 copy 9.jpg" crc="3877844534" seo="true" ref="index">
+    <file name="c.jpg" crc="231037254" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="artboard 16 copy 10.jpg" crc="3891181345" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="artboard 16 copy 13.jpg" crc="4092042751" seo="true" ref="index">
+    <file name="a.jpg" crc="483463407" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="479554566" seo="true" mt="1562573914279" redirect="true"/>
+  <file name="index.html" crc="208379031" seo="true" mt="1563785010409" redirect="true"/>
 </manifest>

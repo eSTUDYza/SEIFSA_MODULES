@@ -2,17 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://SEIFSA.COM/index.html</loc>
-    <lastmod>2019-07-08</lastmod>
+    <lastmod>2019-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://SEIFSA.COM/images/artboard%2016%20copy%209.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SEIFSA.COM/images/artboard%2016%20copy%2010.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SEIFSA.COM/images/artboard%2016%20copy%2013.jpg</image:loc>
-    </image:image>
   </url>
 </urlset>
