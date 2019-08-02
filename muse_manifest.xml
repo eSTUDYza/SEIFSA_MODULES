@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1563786532821">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1564749434150">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4189520947" ref="index"/>
+    <file name="index.css" crc="3960700339" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,9 +23,6 @@
     <file name="c.jpg" crc="231037254" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a.jpg" crc="483463407" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4205437851" seo="true" mt="1563786521196" redirect="true"/>
+  <file name="index.html" crc="95612555" seo="true" mt="1564749422858" redirect="true"/>
 </manifest>
