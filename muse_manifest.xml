@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1566804494864">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SEIFSA.COM" resolutions="1x" timestamp="1579588602844">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="291988180" ref="index"/>
+    <file name="index.css" crc="4158454146" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -17,17 +17,14 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="b.jpg" crc="353140057" ref="index">
+    <file name="b.jpg" crc="107236951" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c.jpg" crc="231037254" ref="index">
+    <file name="c.jpg" crc="4072542000" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1665-8.png" crc="3811191471" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u1837.png" crc="347517355" ref="index"/>
-    <file name="u1837-r.png" crc="347517355" ref="index"/>
     <file name="u1671-8.png" crc="3974642520" ref="index"/>
   </folder>
-  <file name="index.html" crc="3795964052" seo="true" mt="1566804445739" redirect="true"/>
+  <file name="index.html" crc="41572582" seo="true" mt="1579588601903" redirect="true"/>
 </manifest>
